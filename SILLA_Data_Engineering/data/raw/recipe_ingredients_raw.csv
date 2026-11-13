@@ -1,0 +1,1389 @@
+﻿recipe_ingredient_id,recipe_id,ingredient_id,original_ingredient_name,quantity,unit,preparation_note,is_optional,source_url
+RI000001,R0001,,Penne Pasta,500,g,boiled al dente,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000002,R0001,,Ground Beef,500,g,minced lean,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000003,R0001,,Yellow Onion,2,piece,finely chopped,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000004,R0001,,Whole Milk,1000,ml,warmed,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000005,R0001,,All-Purpose Flour,100,g,sifted,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000006,R0001,,Butter,100,g,unsalted,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000007,R0001,,Eggs,2,piece,lightly beaten,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000008,R0001,,Tomato Paste,2,tablespoon,canned,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000009,R0001,,Nutmeg,0.5,teaspoon,freshly ground,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000010,R0001,,Black Pepper,1,teaspoon,ground,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000011,R0001,,Salt,1.5,teaspoon,fine,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000012,R0001,,Vegetable Oil,2,tablespoon,for sautéing,0,https://en.wikipedia.org/wiki/Pastitsio#Egypt
+RI000013,R0002,,Egyptian White Rice,300,g,short-grain washed,0,https://en.wikipedia.org/wiki/Kushari
+RI000014,R0002,,Brown Lentils,200,g,soaked and boiled,0,https://en.wikipedia.org/wiki/Kushari
+RI000015,R0002,,Elbow Macaroni,250,g,boiled,0,https://en.wikipedia.org/wiki/Kushari
+RI000016,R0002,,Vermicelli,100,g,golden toasted,0,https://en.wikipedia.org/wiki/Kushari
+RI000017,R0002,,Canned Chickpeas,400,g,drained and rinsed,0,https://en.wikipedia.org/wiki/Kushari
+RI000018,R0002,,Yellow Onion,4,piece,thinly sliced rings,0,https://en.wikipedia.org/wiki/Kushari
+RI000019,R0002,,Garlic,8,clove,minced,0,https://en.wikipedia.org/wiki/Kushari
+RI000020,R0002,,Tomato Sauce,500,g,pureed strained,0,https://en.wikipedia.org/wiki/Kushari
+RI000021,R0002,,White Vinegar,60,ml,for dressing and sauce,0,https://en.wikipedia.org/wiki/Kushari
+RI000022,R0002,,Cumin,2,teaspoon,ground,0,https://en.wikipedia.org/wiki/Kushari
+RI000023,R0002,,Coriander,1,teaspoon,ground,0,https://en.wikipedia.org/wiki/Kushari
+RI000024,R0002,,Chili Pepper Powder,1,teaspoon,hot,1,https://en.wikipedia.org/wiki/Kushari
+RI000025,R0002,,Vegetable Oil,150,ml,for frying onions,0,https://en.wikipedia.org/wiki/Kushari
+RI000026,R0002,,Salt,2,teaspoon,divided,0,https://en.wikipedia.org/wiki/Kushari
+RI000027,R0003,,Whole Chicken,1200,g,cleaned and quartered,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000028,R0003,,Fresh Molokhia Leaves,500,g,minced finely with makhrata,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000029,R0003,,Garlic,10,clove,crushed into paste,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000030,R0003,,Dry Coriander,2,tablespoon,ground,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000031,R0003,,Ghee,3,tablespoon,clarified butter,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000032,R0003,,Yellow Onion,1,piece,for broth,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000033,R0003,,Cardamom Pods,4,piece,whole,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000034,R0003,,Bay Leaf,2,piece,dried,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000035,R0003,,Salt,2,teaspoon,to taste,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000036,R0003,,Black Pepper,1,teaspoon,freshly cracked,0,https://en.wikipedia.org/wiki/Mulukhiyah
+RI000037,R0004,,Egyptian White Rice,400,g,washed short grain,0,https://en.wikipedia.org/wiki/Mahshi
+RI000038,R0004,,Zucchini,1000,g,small cored,0,https://en.wikipedia.org/wiki/Mahshi
+RI000039,R0004,,Black Eggplant,800,g,small slender cored,0,https://en.wikipedia.org/wiki/Mahshi
+RI000040,R0004,,Green Bell Pepper,500,g,medium seeded,0,https://en.wikipedia.org/wiki/Mahshi
+RI000041,R0004,,Tomato Sauce,600,g,pureed fresh,0,https://en.wikipedia.org/wiki/Mahshi
+RI000042,R0004,,Yellow Onion,3,piece,finely chopped,0,https://en.wikipedia.org/wiki/Mahshi
+RI000043,R0004,,Fresh Dill,1,bunch,finely minced,0,https://en.wikipedia.org/wiki/Mahshi
+RI000044,R0004,,Fresh Parsley,1,bunch,finely minced,0,https://en.wikipedia.org/wiki/Mahshi
+RI000045,R0004,,Fresh Coriander,1,bunch,finely minced,0,https://en.wikipedia.org/wiki/Mahshi
+RI000046,R0004,,Ghee,3,tablespoon,pure butter,0,https://en.wikipedia.org/wiki/Mahshi
+RI000047,R0004,,Cumin,1.5,teaspoon,ground,0,https://en.wikipedia.org/wiki/Mahshi
+RI000048,R0004,,Dried Mint,1,tablespoon,crushed,0,https://en.wikipedia.org/wiki/Mahshi
+RI000049,R0004,,Black Pepper,1,teaspoon,ground,0,https://en.wikipedia.org/wiki/Mahshi
+RI000050,R0004,,Salt,2.5,teaspoon,fine,0,https://en.wikipedia.org/wiki/Mahshi
+RI000051,R0005,,Beef Stew Cubes,800,g,shank or chuck cut,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000052,R0005,,Egyptian Baladi Bread,4,piece,cut into bite cubes,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000053,R0005,,Egyptian White Rice,400,g,cooked in broth,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000054,R0005,,Garlic,12,clove,crushed fine,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000055,R0005,,White Vinegar,80,ml,distilled cane vinegar,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000056,R0005,,Tomato Paste,3,tablespoon,canned concentrated,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000057,R0005,,Ghee,4,tablespoon,divided,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000058,R0005,,Bay Leaf,3,piece,dried,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000059,R0005,,Cardamom Pods,4,piece,cracked,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000060,R0005,,Salt,2,teaspoon,divided,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000061,R0005,,Black Pepper,1,teaspoon,ground,0,https://en.wikipedia.org/wiki/Fatteh#Egypt
+RI000062,R0006,,Ground Beef,600,g,20% fat content,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000063,R0006,,Egyptian Baladi Bread,6,piece,fresh half-baked pita,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000064,R0006,,Yellow Onion,3,piece,grated,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000065,R0006,,Green Bell Pepper,2,piece,finely minced,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000066,R0006,,Fresh Parsley,0.5,cup,chopped fine,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000067,R0006,,Allspice,1,teaspoon,Egyptian kababa seini,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000068,R0006,,Dry Coriander,1,teaspoon,ground,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000069,R0006,,Ghee,3,tablespoon,melted for brushing,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000070,R0006,,Black Pepper,1,teaspoon,freshly ground,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000071,R0006,,Salt,1.5,teaspoon,fine,0,https://en.wikipedia.org/wiki/Hawawshi
+RI000072,R0007,,Ground Beef,700,g,minced twice,0,https://en.wikipedia.org/wiki/Kofta
+RI000073,R0007,,Yellow Onion,2,piece,grated,0,https://en.wikipedia.org/wiki/Kofta
+RI000074,R0007,,Fresh Parsley,0.5,cup,finely chopped,0,https://en.wikipedia.org/wiki/Kofta
+RI000075,R0007,,Baking Powder,0.5,teaspoon,for fluffiness,0,https://en.wikipedia.org/wiki/Kofta
+RI000076,R0007,,Cornstarch,1,tablespoon,as binder,0,https://en.wikipedia.org/wiki/Kofta
+RI000077,R0007,,Allspice,1,teaspoon,ground,0,https://en.wikipedia.org/wiki/Kofta
+RI000078,R0007,,Black Pepper,1,teaspoon,coarse ground,0,https://en.wikipedia.org/wiki/Kofta
+RI000079,R0007,,Salt,1.5,teaspoon,fine,0,https://en.wikipedia.org/wiki/Kofta
+RI000080,R0008,,Red Split Lentils,300,g,rinsed clean,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000081,R0008,,Carrot,2,piece,peeled and sliced,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000082,R0008,,Red Tomato,2,piece,chopped,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000083,R0008,,Yellow Onion,2,piece,chopped,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000084,R0008,,Garlic,4,clove,peeled,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000085,R0008,,Vermicelli,60,g,broken fine,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000086,R0008,,Butter,2,tablespoon,for toasting vermicelli,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000087,R0008,,Cumin,2,teaspoon,ground fragrant,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000088,R0008,,Turmeric,0.5,teaspoon,for color,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000089,R0008,,Lemon,2,piece,cut into wedges,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000090,R0008,,Salt,1.5,teaspoon,fine,0,https://en.wikipedia.org/wiki/Lentil_soup
+RI000091,R0009,,Eggs,5,piece,fresh large,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000092,R0009,,Red Tomato,4,piece,ripe peeled and chopped,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000093,R0009,,Yellow Onion,1,piece,diced,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000094,R0009,,Green Bell Pepper,1,piece,diced,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000095,R0009,,Garlic,3,clove,minced,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000096,R0009,,Tomato Paste,1,tablespoon,canned,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000097,R0009,,Olive Oil,2,tablespoon,extra virgin,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000098,R0009,,Cumin,1,teaspoon,ground,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000099,R0009,,Paprika,1,teaspoon,sweet ground,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000100,R0009,,Fresh Parsley,2,tablespoon,chopped for garnish,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000101,R0009,,Salt,1,teaspoon,fine,0,https://en.wikipedia.org/wiki/Shakshouka
+RI000102,R0010,,Canned Fava Beans,800,g,cooked tender,0,https://en.wikipedia.org/wiki/Ful_medames
+RI000103,R0010,,Tahini,4,tablespoon,pure sesame paste,0,https://en.wikipedia.org/wiki/Ful_medames
+RI000104,R0010,,Olive Oil,3,tablespoon,extra virgin,0,https://en.wikipedia.org/wiki/Ful_medames
+RI000105,R0010,,Lemon,2,piece,freshly squeezed juice,0,https://en.wikipedia.org/wiki/Ful_medames
+RI000106,R0010,,Garlic,3,clove,crushed paste,0,https://en.wikipedia.org/wiki/Ful_medames
+RI000107,R0010,,Red Tomato,1,piece,firm diced,0,https://en.wikipedia.org/wiki/Ful_medames
+RI000108,R0010,,Cumin,1.5,teaspoon,ground,0,https://en.wikipedia.org/wiki/Ful_medames
+RI000109,R0010,,Fresh Parsley,2,tablespoon,minced,0,https://en.wikipedia.org/wiki/Ful_medames
+RI000110,R0010,,Salt,1,teaspoon,fine,0,https://en.wikipedia.org/wiki/Ful_medames
+RI000111,R0011,,Dried Split Fava Beans,500,g,soaked 12 hours drained,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000112,R0011,,Fresh Coriander,1,bunch,leaves and tender stems,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000113,R0011,,Fresh Dill,0.5,bunch,chopped,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000114,R0011,,Yellow Onion,1,piece,medium,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000115,R0011,,Garlic,6,clove,peeled,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000116,R0011,,Dry Coriander,2,tablespoon,coarse ground,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000117,R0011,,Cumin,1,teaspoon,ground,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000118,R0011,,Baking Powder,0.5,teaspoon,added before frying,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000119,R0011,,Salt,1.5,teaspoon,fine,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000120,R0011,,Vegetable Oil,500,ml,for deep frying,0,https://en.wikipedia.org/wiki/Falafel#Egypt
+RI000121,R0012,,Fettuccine Pasta,400,g,boiled al dente,0,https://www.themealdb.com
+RI000122,R0012,,Chicken Breast,500,g,sliced strips,0,https://www.themealdb.com
+RI000123,R0012,,Heavy Cream,300,ml,cooking cream,0,https://www.themealdb.com
+RI000124,R0012,,Butter,50,g,unsalted,0,https://www.themealdb.com
+RI000125,R0012,,Garlic,3,clove,minced,0,https://www.themealdb.com
+RI000126,R0012,,Parmesan Cheese,80,g,finely grated,0,https://www.themealdb.com
+RI000127,R0012,,Black Pepper,0.5,teaspoon,ground,0,https://www.themealdb.com
+RI000128,R0012,,Salt,1,teaspoon,fine,0,https://www.themealdb.com
+RI000129,R0013,,Lasagna Pasta Sheets,300,g,oven-ready,0,https://www.themealdb.com
+RI000130,R0013,,Ground Beef,500,g,minced,0,https://www.themealdb.com
+RI000131,R0013,,Tomato Sauce,500,g,crushed,0,https://www.themealdb.com
+RI000132,R0013,,Yellow Onion,1,piece,diced,0,https://www.themealdb.com
+RI000133,R0013,,Garlic,2,clove,minced,0,https://www.themealdb.com
+RI000134,R0013,,Whole Milk,600,ml,for bechamel,0,https://www.themealdb.com
+RI000135,R0013,,All-Purpose Flour,50,g,sifted,0,https://www.themealdb.com
+RI000136,R0013,,Butter,50,g,unsalted,0,https://www.themealdb.com
+RI000137,R0013,,Mozzarella Cheese,250,g,shredded,0,https://www.themealdb.com
+RI000138,R0013,,Parmesan Cheese,50,g,grated,0,https://www.themealdb.com
+RI000139,R0013,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000140,R0014,,All-Purpose Flour,350,g,for dough,0,https://www.themealdb.com
+RI000141,R0014,,Tomato Sauce,150,g,crushed seasoned,0,https://www.themealdb.com
+RI000142,R0014,,Mozzarella Cheese,200,g,fresh slices,0,https://www.themealdb.com
+RI000143,R0014,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000144,R0014,,Salt,1,teaspoon,fine,0,https://www.themealdb.com
+RI000145,R0015,,Chicken Breast,700,g,cubed,0,https://www.themealdb.com
+RI000146,R0015,,Basmati Rice,350,g,cooked,0,https://www.themealdb.com
+RI000147,R0015,,Potato,2,piece,peeled cubed,0,https://www.themealdb.com
+RI000148,R0015,,Yellow Onion,1,piece,chopped,0,https://www.themealdb.com
+RI000149,R0015,,Garlic,3,clove,minced,0,https://www.themealdb.com
+RI000150,R0015,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000151,R0015,,Turmeric,1,teaspoon,ground,0,https://www.themealdb.com
+RI000152,R0015,,Vegetable Oil,2,tablespoon,cooking oil,0,https://www.themealdb.com
+RI000153,R0015,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000154,R0016,,Carrot,2,piece,diced,0,https://www.themealdb.com
+RI000155,R0016,,Zucchini,2,piece,diced,0,https://www.themealdb.com
+RI000156,R0016,,Potato,2,piece,diced,0,https://www.themealdb.com
+RI000157,R0016,,Frozen Green Peas,150,g,sweet peas,0,https://www.themealdb.com
+RI000158,R0016,,Yellow Onion,1,piece,diced,0,https://www.themealdb.com
+RI000159,R0016,,Olive Oil,1.5,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000160,R0016,,Fresh Parsley,2,tablespoon,chopped,0,https://www.themealdb.com
+RI000161,R0016,,Salt,1,teaspoon,fine,0,https://www.themealdb.com
+RI000162,R0016,,Black Pepper,0.5,teaspoon,ground,0,https://www.themealdb.com
+RI000163,R0017,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000164,R0017,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000165,R0017,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000166,R0017,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000167,R0017,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000168,R0017,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000169,R0017,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000170,R0017,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000171,R0018,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000172,R0018,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000173,R0018,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000174,R0018,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000175,R0018,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000176,R0018,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000177,R0018,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000178,R0018,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000179,R0019,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000180,R0019,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000181,R0019,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000182,R0019,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000183,R0019,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000184,R0019,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000185,R0019,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000186,R0019,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000187,R0020,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000188,R0020,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000189,R0020,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000190,R0020,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000191,R0020,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000192,R0020,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000193,R0020,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000194,R0020,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000195,R0021,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000196,R0021,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000197,R0021,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000198,R0021,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000199,R0021,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000200,R0021,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000201,R0021,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000202,R0022,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000203,R0022,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000204,R0022,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000205,R0022,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000206,R0022,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000207,R0022,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000208,R0023,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000209,R0023,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000210,R0023,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000211,R0023,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000212,R0023,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000213,R0023,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000214,R0024,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000215,R0024,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000216,R0024,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000217,R0024,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000218,R0024,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000219,R0024,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000220,R0025,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000221,R0025,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000222,R0025,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000223,R0025,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000224,R0025,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000225,R0025,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000226,R0026,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000227,R0026,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000228,R0026,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000229,R0026,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000230,R0026,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000231,R0026,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000232,R0026,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000233,R0026,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000234,R0027,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000235,R0027,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000236,R0027,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000237,R0027,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000238,R0027,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000239,R0027,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000240,R0027,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000241,R0027,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000242,R0027,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000243,R0027,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000244,R0028,,Beef Tenderloin,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000245,R0028,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000246,R0028,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000247,R0028,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000248,R0028,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000249,R0028,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000250,R0029,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000251,R0029,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000252,R0029,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000253,R0029,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000254,R0029,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000255,R0029,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000256,R0029,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000257,R0029,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000258,R0030,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000259,R0030,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000260,R0030,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000261,R0030,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000262,R0030,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000263,R0030,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000264,R0030,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000265,R0030,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000266,R0031,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000267,R0031,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000268,R0031,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000269,R0031,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000270,R0031,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000271,R0031,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000272,R0031,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000273,R0031,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000274,R0032,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000275,R0032,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000276,R0032,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000277,R0032,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000278,R0032,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000279,R0032,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000280,R0032,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000281,R0032,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000282,R0033,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000283,R0033,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000284,R0033,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000285,R0033,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000286,R0033,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000287,R0033,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000288,R0033,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000289,R0034,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000290,R0034,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000291,R0034,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000292,R0034,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000293,R0034,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000294,R0034,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000295,R0035,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000296,R0035,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000297,R0035,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000298,R0035,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000299,R0035,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000300,R0035,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000301,R0036,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000302,R0036,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000303,R0036,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000304,R0036,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000305,R0036,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000306,R0036,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000307,R0037,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000308,R0037,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000309,R0037,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000310,R0037,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000311,R0037,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000312,R0037,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000313,R0038,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000314,R0038,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000315,R0038,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000316,R0038,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000317,R0038,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000318,R0038,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000319,R0038,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000320,R0038,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000321,R0039,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000322,R0039,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000323,R0039,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000324,R0039,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000325,R0039,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000326,R0039,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000327,R0039,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000328,R0039,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000329,R0039,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000330,R0039,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000331,R0040,,Chicken Breast,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000332,R0040,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000333,R0040,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000334,R0040,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000335,R0040,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000336,R0040,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000337,R0041,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000338,R0041,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000339,R0041,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000340,R0041,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000341,R0041,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000342,R0041,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000343,R0041,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000344,R0041,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000345,R0042,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000346,R0042,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000347,R0042,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000348,R0042,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000349,R0042,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000350,R0042,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000351,R0042,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000352,R0042,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000353,R0043,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000354,R0043,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000355,R0043,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000356,R0043,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000357,R0043,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000358,R0043,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000359,R0043,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000360,R0043,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000361,R0044,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000362,R0044,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000363,R0044,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000364,R0044,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000365,R0044,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000366,R0044,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000367,R0044,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000368,R0044,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000369,R0045,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000370,R0045,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000371,R0045,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000372,R0045,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000373,R0045,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000374,R0045,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000375,R0045,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000376,R0046,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000377,R0046,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000378,R0046,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000379,R0046,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000380,R0046,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000381,R0046,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000382,R0047,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000383,R0047,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000384,R0047,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000385,R0047,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000386,R0047,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000387,R0047,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000388,R0048,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000389,R0048,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000390,R0048,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000391,R0048,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000392,R0048,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000393,R0048,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000394,R0049,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000395,R0049,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000396,R0049,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000397,R0049,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000398,R0049,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000399,R0049,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000400,R0050,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000401,R0050,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000402,R0050,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000403,R0050,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000404,R0050,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000405,R0050,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000406,R0050,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000407,R0050,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000408,R0051,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000409,R0051,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000410,R0051,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000411,R0051,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000412,R0051,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000413,R0051,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000414,R0051,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000415,R0051,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000416,R0051,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000417,R0051,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000418,R0052,,Chicken Thighs,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000419,R0052,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000420,R0052,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000421,R0052,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000422,R0052,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000423,R0052,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000424,R0053,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000425,R0053,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000426,R0053,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000427,R0053,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000428,R0053,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000429,R0053,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000430,R0053,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000431,R0053,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000432,R0054,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000433,R0054,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000434,R0054,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000435,R0054,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000436,R0054,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000437,R0054,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000438,R0054,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000439,R0054,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000440,R0055,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000441,R0055,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000442,R0055,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000443,R0055,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000444,R0055,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000445,R0055,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000446,R0055,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000447,R0055,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000448,R0056,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000449,R0056,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000450,R0056,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000451,R0056,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000452,R0056,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000453,R0056,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000454,R0056,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000455,R0056,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000456,R0057,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000457,R0057,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000458,R0057,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000459,R0057,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000460,R0057,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000461,R0057,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000462,R0057,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000463,R0058,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000464,R0058,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000465,R0058,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000466,R0058,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000467,R0058,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000468,R0058,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000469,R0059,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000470,R0059,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000471,R0059,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000472,R0059,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000473,R0059,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000474,R0059,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000475,R0060,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000476,R0060,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000477,R0060,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000478,R0060,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000479,R0060,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000480,R0060,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000481,R0061,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000482,R0061,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000483,R0061,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000484,R0061,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000485,R0061,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000486,R0061,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000487,R0062,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000488,R0062,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000489,R0062,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000490,R0062,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000491,R0062,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000492,R0062,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000493,R0062,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000494,R0062,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000495,R0063,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000496,R0063,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000497,R0063,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000498,R0063,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000499,R0063,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000500,R0063,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000501,R0063,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000502,R0063,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000503,R0063,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000504,R0063,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000505,R0064,,Lamb Shoulder,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000506,R0064,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000507,R0064,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000508,R0064,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000509,R0064,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000510,R0064,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000511,R0065,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000512,R0065,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000513,R0065,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000514,R0065,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000515,R0065,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000516,R0065,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000517,R0065,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000518,R0065,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000519,R0066,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000520,R0066,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000521,R0066,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000522,R0066,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000523,R0066,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000524,R0066,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000525,R0066,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000526,R0066,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000527,R0067,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000528,R0067,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000529,R0067,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000530,R0067,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000531,R0067,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000532,R0067,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000533,R0067,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000534,R0067,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000535,R0068,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000536,R0068,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000537,R0068,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000538,R0068,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000539,R0068,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000540,R0068,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000541,R0068,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000542,R0068,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000543,R0069,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000544,R0069,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000545,R0069,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000546,R0069,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000547,R0069,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000548,R0069,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000549,R0069,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000550,R0070,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000551,R0070,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000552,R0070,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000553,R0070,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000554,R0070,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000555,R0070,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000556,R0071,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000557,R0071,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000558,R0071,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000559,R0071,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000560,R0071,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000561,R0071,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000562,R0072,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000563,R0072,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000564,R0072,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000565,R0072,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000566,R0072,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000567,R0072,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000568,R0073,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000569,R0073,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000570,R0073,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000571,R0073,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000572,R0073,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000573,R0073,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000574,R0074,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000575,R0074,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000576,R0074,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000577,R0074,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000578,R0074,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000579,R0074,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000580,R0074,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000581,R0074,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000582,R0075,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000583,R0075,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000584,R0075,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000585,R0075,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000586,R0075,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000587,R0075,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000588,R0075,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000589,R0075,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000590,R0075,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000591,R0075,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000592,R0076,,Tilapia Fillet,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000593,R0076,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000594,R0076,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000595,R0076,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000596,R0076,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000597,R0076,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000598,R0077,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000599,R0077,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000600,R0077,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000601,R0077,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000602,R0077,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000603,R0077,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000604,R0077,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000605,R0077,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000606,R0078,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000607,R0078,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000608,R0078,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000609,R0078,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000610,R0078,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000611,R0078,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000612,R0078,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000613,R0078,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000614,R0079,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000615,R0079,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000616,R0079,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000617,R0079,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000618,R0079,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000619,R0079,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000620,R0079,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000621,R0079,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000622,R0080,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000623,R0080,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000624,R0080,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000625,R0080,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000626,R0080,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000627,R0080,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000628,R0080,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000629,R0080,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000630,R0081,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000631,R0081,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000632,R0081,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000633,R0081,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000634,R0081,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000635,R0081,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000636,R0081,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000637,R0082,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000638,R0082,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000639,R0082,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000640,R0082,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000641,R0082,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000642,R0082,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000643,R0083,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000644,R0083,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000645,R0083,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000646,R0083,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000647,R0083,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000648,R0083,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000649,R0084,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000650,R0084,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000651,R0084,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000652,R0084,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000653,R0084,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000654,R0084,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000655,R0085,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000656,R0085,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000657,R0085,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000658,R0085,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000659,R0085,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000660,R0085,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000661,R0086,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000662,R0086,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000663,R0086,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000664,R0086,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000665,R0086,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000666,R0086,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000667,R0086,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000668,R0086,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000669,R0087,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000670,R0087,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000671,R0087,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000672,R0087,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000673,R0087,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000674,R0087,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000675,R0087,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000676,R0087,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000677,R0087,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000678,R0087,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000679,R0088,,Sea Bass,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000680,R0088,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000681,R0088,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000682,R0088,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000683,R0088,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000684,R0088,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000685,R0089,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000686,R0089,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000687,R0089,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000688,R0089,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000689,R0089,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000690,R0089,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000691,R0089,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000692,R0089,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000693,R0090,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000694,R0090,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000695,R0090,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000696,R0090,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000697,R0090,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000698,R0090,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000699,R0090,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000700,R0090,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000701,R0091,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000702,R0091,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000703,R0091,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000704,R0091,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000705,R0091,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000706,R0091,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000707,R0091,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000708,R0091,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000709,R0092,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000710,R0092,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000711,R0092,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000712,R0092,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000713,R0092,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000714,R0092,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000715,R0092,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000716,R0092,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000717,R0093,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000718,R0093,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000719,R0093,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000720,R0093,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000721,R0093,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000722,R0093,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000723,R0093,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000724,R0094,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000725,R0094,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000726,R0094,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000727,R0094,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000728,R0094,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000729,R0094,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000730,R0095,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000731,R0095,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000732,R0095,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000733,R0095,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000734,R0095,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000735,R0095,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000736,R0096,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000737,R0096,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000738,R0096,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000739,R0096,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000740,R0096,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000741,R0096,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000742,R0097,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000743,R0097,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000744,R0097,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000745,R0097,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000746,R0097,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000747,R0097,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000748,R0098,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000749,R0098,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000750,R0098,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000751,R0098,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000752,R0098,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000753,R0098,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000754,R0098,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000755,R0098,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000756,R0099,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000757,R0099,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000758,R0099,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000759,R0099,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000760,R0099,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000761,R0099,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000762,R0099,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000763,R0099,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000764,R0099,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000765,R0099,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000766,R0100,,Shrimp,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000767,R0100,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000768,R0100,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000769,R0100,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000770,R0100,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000771,R0100,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000772,R0101,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000773,R0101,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000774,R0101,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000775,R0101,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000776,R0101,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000777,R0101,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000778,R0101,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000779,R0101,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000780,R0102,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000781,R0102,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000782,R0102,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000783,R0102,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000784,R0102,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000785,R0102,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000786,R0102,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000787,R0102,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000788,R0103,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000789,R0103,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000790,R0103,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000791,R0103,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000792,R0103,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000793,R0103,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000794,R0103,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000795,R0103,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000796,R0104,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000797,R0104,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000798,R0104,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000799,R0104,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000800,R0104,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000801,R0104,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000802,R0104,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000803,R0104,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000804,R0105,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000805,R0105,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000806,R0105,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000807,R0105,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000808,R0105,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000809,R0105,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000810,R0105,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000811,R0106,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000812,R0106,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000813,R0106,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000814,R0106,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000815,R0106,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000816,R0106,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000817,R0107,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000818,R0107,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000819,R0107,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000820,R0107,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000821,R0107,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000822,R0107,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000823,R0108,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000824,R0108,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000825,R0108,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000826,R0108,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000827,R0108,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000828,R0108,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000829,R0109,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000830,R0109,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000831,R0109,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000832,R0109,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000833,R0109,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000834,R0109,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000835,R0110,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000836,R0110,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000837,R0110,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000838,R0110,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000839,R0110,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000840,R0110,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000841,R0110,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000842,R0110,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000843,R0111,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000844,R0111,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000845,R0111,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000846,R0111,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000847,R0111,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000848,R0111,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000849,R0111,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000850,R0111,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000851,R0111,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000852,R0111,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000853,R0112,,Calamari,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000854,R0112,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000855,R0112,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000856,R0112,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000857,R0112,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000858,R0112,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000859,R0113,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000860,R0113,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000861,R0113,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000862,R0113,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000863,R0113,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000864,R0113,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000865,R0113,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000866,R0113,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000867,R0114,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000868,R0114,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000869,R0114,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000870,R0114,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000871,R0114,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000872,R0114,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000873,R0114,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000874,R0114,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000875,R0115,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000876,R0115,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000877,R0115,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000878,R0115,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000879,R0115,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000880,R0115,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000881,R0115,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000882,R0115,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000883,R0116,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000884,R0116,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000885,R0116,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000886,R0116,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000887,R0116,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000888,R0116,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000889,R0116,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000890,R0116,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000891,R0117,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000892,R0117,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000893,R0117,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000894,R0117,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000895,R0117,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000896,R0117,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000897,R0117,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000898,R0118,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000899,R0118,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000900,R0118,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000901,R0118,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000902,R0118,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000903,R0118,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000904,R0119,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000905,R0119,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000906,R0119,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000907,R0119,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000908,R0119,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000909,R0119,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000910,R0120,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000911,R0120,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000912,R0120,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000913,R0120,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000914,R0120,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000915,R0120,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000916,R0121,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000917,R0121,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000918,R0121,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000919,R0121,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000920,R0121,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000921,R0121,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000922,R0122,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000923,R0122,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000924,R0122,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000925,R0122,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000926,R0122,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000927,R0122,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000928,R0122,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000929,R0122,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000930,R0123,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000931,R0123,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000932,R0123,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000933,R0123,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000934,R0123,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000935,R0123,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000936,R0123,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000937,R0123,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000938,R0123,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000939,R0123,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000940,R0124,,Brown Lentils,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000941,R0124,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000942,R0124,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000943,R0124,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000944,R0124,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000945,R0124,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000946,R0125,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000947,R0125,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000948,R0125,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000949,R0125,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000950,R0125,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000951,R0125,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000952,R0125,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI000953,R0125,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI000954,R0126,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000955,R0126,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000956,R0126,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000957,R0126,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000958,R0126,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000959,R0126,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000960,R0126,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000961,R0126,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000962,R0127,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000963,R0127,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000964,R0127,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000965,R0127,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000966,R0127,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000967,R0127,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000968,R0127,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI000969,R0127,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI000970,R0128,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000971,R0128,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000972,R0128,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000973,R0128,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000974,R0128,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000975,R0128,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000976,R0128,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI000977,R0128,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI000978,R0129,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000979,R0129,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000980,R0129,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000981,R0129,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000982,R0129,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000983,R0129,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000984,R0129,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI000985,R0130,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000986,R0130,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000987,R0130,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000988,R0130,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000989,R0130,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000990,R0130,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000991,R0131,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000992,R0131,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000993,R0131,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI000994,R0131,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI000995,R0131,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI000996,R0131,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI000997,R0132,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI000998,R0132,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI000999,R0132,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001000,R0132,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001001,R0132,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001002,R0132,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001003,R0133,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001004,R0133,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001005,R0133,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001006,R0133,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001007,R0133,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001008,R0133,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001009,R0134,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001010,R0134,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001011,R0134,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001012,R0134,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001013,R0134,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001014,R0134,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001015,R0134,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001016,R0134,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001017,R0135,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001018,R0135,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001019,R0135,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001020,R0135,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001021,R0135,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001022,R0135,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001023,R0135,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001024,R0135,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001025,R0135,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001026,R0135,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001027,R0136,,White Beans,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001028,R0136,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001029,R0136,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001030,R0136,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001031,R0136,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001032,R0136,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001033,R0137,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001034,R0137,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001035,R0137,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001036,R0137,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001037,R0137,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001038,R0137,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001039,R0137,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001040,R0137,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001041,R0138,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001042,R0138,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001043,R0138,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001044,R0138,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001045,R0138,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001046,R0138,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001047,R0138,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001048,R0138,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001049,R0139,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001050,R0139,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001051,R0139,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001052,R0139,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001053,R0139,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001054,R0139,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001055,R0139,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI001056,R0139,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI001057,R0140,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001058,R0140,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001059,R0140,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001060,R0140,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001061,R0140,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001062,R0140,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001063,R0140,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001064,R0140,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001065,R0141,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001066,R0141,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001067,R0141,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001068,R0141,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001069,R0141,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001070,R0141,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001071,R0141,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI001072,R0142,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001073,R0142,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001074,R0142,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001075,R0142,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001076,R0142,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001077,R0142,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001078,R0143,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001079,R0143,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001080,R0143,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001081,R0143,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001082,R0143,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001083,R0143,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001084,R0144,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001085,R0144,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001086,R0144,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001087,R0144,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001088,R0144,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001089,R0144,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001090,R0145,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001091,R0145,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001092,R0145,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001093,R0145,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001094,R0145,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001095,R0145,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001096,R0146,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001097,R0146,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001098,R0146,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001099,R0146,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001100,R0146,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001101,R0146,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001102,R0146,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001103,R0146,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001104,R0147,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001105,R0147,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001106,R0147,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001107,R0147,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001108,R0147,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001109,R0147,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001110,R0147,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001111,R0147,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001112,R0147,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001113,R0147,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001114,R0148,,Chickpeas,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001115,R0148,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001116,R0148,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001117,R0148,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001118,R0148,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001119,R0148,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001120,R0149,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001121,R0149,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001122,R0149,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001123,R0149,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001124,R0149,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001125,R0149,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001126,R0149,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001127,R0149,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001128,R0150,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001129,R0150,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001130,R0150,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001131,R0150,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001132,R0150,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001133,R0150,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001134,R0150,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001135,R0150,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001136,R0151,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001137,R0151,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001138,R0151,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001139,R0151,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001140,R0151,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001141,R0151,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001142,R0151,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI001143,R0151,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI001144,R0152,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001145,R0152,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001146,R0152,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001147,R0152,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001148,R0152,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001149,R0152,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001150,R0152,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001151,R0152,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001152,R0153,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001153,R0153,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001154,R0153,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001155,R0153,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001156,R0153,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001157,R0153,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001158,R0153,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI001159,R0154,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001160,R0154,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001161,R0154,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001162,R0154,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001163,R0154,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001164,R0154,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001165,R0155,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001166,R0155,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001167,R0155,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001168,R0155,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001169,R0155,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001170,R0155,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001171,R0156,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001172,R0156,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001173,R0156,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001174,R0156,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001175,R0156,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001176,R0156,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001177,R0157,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001178,R0157,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001179,R0157,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001180,R0157,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001181,R0157,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001182,R0157,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001183,R0158,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001184,R0158,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001185,R0158,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001186,R0158,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001187,R0158,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001188,R0158,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001189,R0158,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001190,R0158,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001191,R0159,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001192,R0159,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001193,R0159,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001194,R0159,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001195,R0159,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001196,R0159,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001197,R0159,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001198,R0159,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001199,R0159,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001200,R0159,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001201,R0160,,Eggplant,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001202,R0160,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001203,R0160,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001204,R0160,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001205,R0160,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001206,R0160,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001207,R0161,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001208,R0161,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001209,R0161,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001210,R0161,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001211,R0161,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001212,R0161,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001213,R0161,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001214,R0161,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001215,R0162,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001216,R0162,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001217,R0162,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001218,R0162,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001219,R0162,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001220,R0162,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001221,R0162,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001222,R0162,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001223,R0163,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001224,R0163,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001225,R0163,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001226,R0163,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001227,R0163,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001228,R0163,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001229,R0163,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI001230,R0163,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI001231,R0164,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001232,R0164,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001233,R0164,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001234,R0164,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001235,R0164,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001236,R0164,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001237,R0164,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001238,R0164,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001239,R0165,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001240,R0165,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001241,R0165,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001242,R0165,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001243,R0165,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001244,R0165,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001245,R0165,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI001246,R0166,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001247,R0166,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001248,R0166,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001249,R0166,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001250,R0166,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001251,R0166,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001252,R0167,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001253,R0167,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001254,R0167,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001255,R0167,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001256,R0167,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001257,R0167,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001258,R0168,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001259,R0168,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001260,R0168,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001261,R0168,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001262,R0168,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001263,R0168,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001264,R0169,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001265,R0169,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001266,R0169,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001267,R0169,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001268,R0169,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001269,R0169,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001270,R0170,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001271,R0170,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001272,R0170,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001273,R0170,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001274,R0170,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001275,R0170,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001276,R0170,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001277,R0170,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001278,R0171,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001279,R0171,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001280,R0171,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001281,R0171,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001282,R0171,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001283,R0171,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001284,R0171,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001285,R0171,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001286,R0171,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001287,R0171,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001288,R0172,,Potatoes,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001289,R0172,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001290,R0172,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001291,R0172,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001292,R0172,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001293,R0172,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001294,R0173,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001295,R0173,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001296,R0173,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001297,R0173,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001298,R0173,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001299,R0173,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001300,R0173,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001301,R0173,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001302,R0174,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001303,R0174,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001304,R0174,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001305,R0174,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001306,R0174,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001307,R0174,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001308,R0174,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001309,R0174,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001310,R0175,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001311,R0175,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001312,R0175,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001313,R0175,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001314,R0175,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001315,R0175,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001316,R0175,,Lemon,2,piece,fresh juice,0,https://www.themealdb.com
+RI001317,R0175,,Butter,40,g,unsalted,0,https://www.themealdb.com
+RI001318,R0176,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001319,R0176,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001320,R0176,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001321,R0176,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001322,R0176,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001323,R0176,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001324,R0176,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001325,R0176,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001326,R0177,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001327,R0177,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001328,R0177,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001329,R0177,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001330,R0177,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001331,R0177,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001332,R0177,,Heavy Cream,200,ml,cooking cream,0,https://www.themealdb.com
+RI001333,R0178,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001334,R0178,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001335,R0178,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001336,R0178,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001337,R0178,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001338,R0178,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001339,R0179,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001340,R0179,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001341,R0179,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001342,R0179,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001343,R0179,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001344,R0179,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001345,R0180,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001346,R0180,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001347,R0180,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001348,R0180,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001349,R0180,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001350,R0180,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001351,R0181,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001352,R0181,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001353,R0181,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001354,R0181,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001355,R0181,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001356,R0181,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001357,R0182,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001358,R0182,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001359,R0182,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001360,R0182,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001361,R0182,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001362,R0182,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001363,R0182,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001364,R0182,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001365,R0183,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001366,R0183,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001367,R0183,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001368,R0183,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001369,R0183,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001370,R0183,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001371,R0183,,Tomato Sauce,350,g,pureed,0,https://www.themealdb.com
+RI001372,R0183,,Tomato Paste,2,tablespoon,concentrated,0,https://www.themealdb.com
+RI001373,R0183,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001374,R0183,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com
+RI001375,R0184,,Penne Pasta,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001376,R0184,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001377,R0184,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001378,R0184,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001379,R0184,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001380,R0184,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001381,R0185,,Egyptian Rice,500,g,fresh cleaned,0,https://www.themealdb.com
+RI001382,R0185,,Yellow Onion,2,piece,chopped,0,https://www.themealdb.com
+RI001383,R0185,,Garlic,4,clove,minced,0,https://www.themealdb.com
+RI001384,R0185,,Olive Oil,2,tablespoon,extra virgin,0,https://www.themealdb.com
+RI001385,R0185,,Black Pepper,1,teaspoon,ground,0,https://www.themealdb.com
+RI001386,R0185,,Salt,1.5,teaspoon,fine,0,https://www.themealdb.com
+RI001387,R0185,,Dry Coriander,1,teaspoon,ground,0,https://www.themealdb.com
+RI001388,R0185,,Cumin,1,teaspoon,ground,0,https://www.themealdb.com

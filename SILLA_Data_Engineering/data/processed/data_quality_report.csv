@@ -1,0 +1,5 @@
+﻿table,total_rows,timestamp,duplicate_recipe_ids,null_recipe_id,null_recipe_name_en,non_positive_servings,issues,passed,duplicate_ingredient_ids,null_canonical_name_en,null_product_name,negative_prices,invalid_units,orphan_recipe_id_rows,orphan_ingredient_id_rows
+recipes,185,2026-11-13T11:59:04.889205,0.0,0.0,0.0,0.0,none,True,,,,,,,
+ingredients,72,2026-11-13T11:59:04.890631,,,,,none,True,0.0,0.0,,,,,
+products,265,2026-11-13T11:59:04.891219,,,,,none,True,,,0.0,0.0,0.0,,
+relationships,1388,2026-11-13T11:59:04.892379,,,,,none,True,,,,,,0.0,0.0
